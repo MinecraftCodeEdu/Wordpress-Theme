@@ -1,5 +1,5 @@
 # Wordpress-Theme
 
-airi
+## airi
 <https://athemes.com/theme/airi/>
 
